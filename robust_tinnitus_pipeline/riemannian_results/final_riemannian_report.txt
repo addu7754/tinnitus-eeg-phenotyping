@@ -1,0 +1,43 @@
+==============================================================================
+ RIEMANNIAN EEG PHENOTYPE HARDENING PIPELINE
+==============================================================================
+Input .set directory: D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset
+Subjects with valid covariance matrices: 130
+Bands: broadband, delta, theta, alpha, beta, gamma
+Channels: 126 EGI channels
+Filter-bank tangent feature shape: (130, 48006)
+Cluster PCA shape: (130, 91)
+
+Filter-bank tangent KMeans scan:
+ k  cluster_sizes  silhouette  permutation_p  davies_bouldin  bootstrap_ari_mean  bootstrap_jaccard_mean  valid
+ 2         20|110      0.3388         0.0050          3.9258              0.1089                  0.5149   True
+ 3       1|112|17      0.3116         0.0050          2.7027              0.1344                  0.3473  False
+ 4     1|110|18|1      0.2149         0.0050          2.3309              0.2183                  0.3264  False
+ 5   110|1|17|1|1      0.2926         0.0050          1.9882              0.2680                  0.3156  False
+ 6 1|98|12|1|17|1      0.0267         0.0100          2.0599              0.1947                  0.2806  False
+
+Selected phenotype architecture:
+  selected k: 2
+  cluster sizes: 20|110
+  silhouette: 0.3388
+  permutation p: 0.0050
+  bootstrap ARI: 0.1089 +/- 0.1651
+  bootstrap Jaccard: 0.5149 +/- 0.0793
+
+Descriptive validation against full-cohort labels:
+              validation        model  k  accuracy_mean  accuracy_std  balanced_accuracy_mean  balanced_accuracy_std  f1_macro_mean  f1_macro_std
+global_label_descriptive  logistic_l2  2         0.8385        0.0154                  0.4955                 0.0091         0.4560        0.0046
+global_label_descriptive   linear_svm  2         0.8462        0.0000                  0.5000                 0.0000         0.4583        0.0000
+global_label_descriptive      rbf_svm  2         0.8462        0.0000                  0.5000                 0.0000         0.4583        0.0000
+global_label_descriptive tri_ensemble  2         0.9846        0.0308                  0.9705                 0.0591         0.9705        0.0591
+
+Train-only cluster propagation validation:
+                    validation        model  k  accuracy_mean  accuracy_std  balanced_accuracy_mean  balanced_accuracy_std  f1_macro_mean  f1_macro_std  adjusted_rand_mean  adjusted_rand_std
+train_only_cluster_propagation   linear_svm  2         0.9923        0.0172                  0.9889                 0.0248         0.9913        0.0195              0.9690             0.0693
+train_only_cluster_propagation  logistic_l2  2         0.9846        0.0211                  0.8889                 0.2187         0.8893        0.2239              0.7690             0.4351
+train_only_cluster_propagation tri_ensemble  2         0.9692        0.0322                  0.7667                 0.2528         0.7719        0.2657              0.5483             0.5115
+train_only_cluster_propagation      rbf_svm  2         0.8846        0.1121                  0.5111                 0.0248         0.4869        0.0132              0.0135             0.0303
+
+Paper-ready interpretation:
+  The Riemannian pipeline supports a binary macroscopic phenotype architecture (k=2).
+  Ensemble metrics are phenotype-label agreement metrics, not clinical diagnostic accuracy.

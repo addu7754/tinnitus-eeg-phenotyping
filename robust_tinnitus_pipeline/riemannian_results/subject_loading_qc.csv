@@ -1,0 +1,426 @@
+subject_id,file,status,n_epochs,n_channels,sfreq,message
+01_01_sub001,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub001.set,ok,116,126,128.0,
+01_01_sub002,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub002.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub003,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub003.set,ok,170,126,128.0,
+01_01_sub004,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub004.set,ok,134,126,128.0,
+01_01_sub005,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub005.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub006,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub006.set,ok,103,126,128.0,
+01_01_sub007,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub007.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub008,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub008.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub009,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub009.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub010,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub010.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub011,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub011.set,ok,159,126,128.0,
+01_01_sub012,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub012.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub013,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub013.set,ok,162,126,128.0,
+01_01_sub014,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub014.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub015,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub015.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub016,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub016.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub017,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub017.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub018,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub018.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub019,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub019.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub020,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub020.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub021,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub021.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub022,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub022.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub023,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub023.set,ok,131,126,128.0,
+01_01_sub024,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub024.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub025,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub025.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub026,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub026.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub027,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub027.set,ok,127,126,128.0,
+01_01_sub028,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub028.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub029,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub029.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub030,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub030.set,ok,101,126,128.0,
+01_01_sub031,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub031.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub032,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub032.set,ok,172,126,128.0,
+01_01_sub033,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub033.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub034,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub034.set,ok,53,126,128.0,
+01_01_sub035,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub035.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub036,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub036.set,ok,85,126,128.0,
+01_01_sub037,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub037.set,ok,109,126,128.0,
+01_01_sub038,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub038.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub039,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub039.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub040,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub040.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub041,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub041.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub042,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub042.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub043,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub043.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub044,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub044.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub045,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub045.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub046,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub046.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub047,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub047.set,ok,86,126,128.0,
+01_01_sub048,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub048.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub049,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub049.set,ok,133,126,128.0,
+01_01_sub050,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub050.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub051,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub051.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub052,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub052.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub053,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub053.set,ok,108,126,128.0,
+01_01_sub054,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub054.set,ok,83,126,128.0,
+01_01_sub055,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub055.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub056,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub056.set,ok,192,126,128.0,
+01_01_sub057,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub057.set,ok,134,126,128.0,
+01_01_sub058,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub058.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub059,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub059.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub060,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub060.set,ok,107,126,128.0,
+01_01_sub061,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub061.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub062,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub062.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub063,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub063.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub064,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub064.set,ok,125,126,128.0,
+01_01_sub065,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub065.set,ok,171,126,128.0,
+01_01_sub066,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub066.set,ok,161,126,128.0,
+01_01_sub067,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub067.set,ok,166,126,128.0,
+01_01_sub068,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub068.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub069,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub069.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub070,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub070.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub071,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub071.set,ok,182,126,128.0,
+01_01_sub072,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub072.set,ok,109,126,128.0,
+01_01_sub073,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub073.set,ok,134,126,128.0,
+01_01_sub074,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub074.set,ok,114,126,128.0,
+01_01_sub075,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub075.set,ok,128,126,128.0,
+01_01_sub076,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub076.set,ok,116,126,128.0,
+01_01_sub077,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub077.set,ok,172,126,128.0,
+01_01_sub078,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub078.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub079,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub079.set,ok,123,126,128.0,
+01_01_sub080,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub080.set,ok,156,126,128.0,
+01_01_sub081,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub081.set,ok,150,126,128.0,
+01_01_sub082,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub082.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub083,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub083.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub084,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub084.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub085,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub085.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub086,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub086.set,ok,149,126,128.0,
+01_01_sub087,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub087.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub088,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub088.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub089,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub089.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub090,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub090.set,ok,97,126,128.0,
+01_01_sub091,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub091.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub092,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub092.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub093,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub093.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub094,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub094.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub095,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub095.set,ok,131,126,128.0,
+01_01_sub096,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub096.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub097,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub097.set,ok,167,126,128.0,
+01_01_sub098,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub098.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub099,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub099.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub100,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub100.set,ok,120,126,128.0,
+01_01_sub101,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub101.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub102,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub102.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub103,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub103.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub104,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub104.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub105,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub105.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub106,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub106.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub107,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub107.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub108,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub108.set,ok,61,126,128.0,
+01_01_sub109,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub109.set,ok,154,126,128.0,
+01_01_sub110,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub110.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub111,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub111.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub112,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub112.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub113,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub113.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub114,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub114.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub115,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub115.set,ok,130,126,128.0,
+01_01_sub116,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub116.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub117,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub117.set,ok,60,126,128.0,
+01_01_sub118,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub118.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub119,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub119.set,ok,166,126,128.0,
+01_01_sub120,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub120.set,ok,161,126,128.0,
+01_01_sub121,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub121.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub122,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub122.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub123,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub123.set,ok,117,126,128.0,
+01_01_sub124,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub124.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub125,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub125.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub126,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub126.set,ok,108,126,128.0,
+01_01_sub127,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub127.set,ok,151,126,128.0,
+01_01_sub128,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub128.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub129,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub129.set,ok,111,126,128.0,
+01_01_sub130,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub130.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub131,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub131.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub132,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub132.set,ok,130,126,128.0,
+01_01_sub133,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub133.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub134,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub134.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub135,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub135.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub136,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub136.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub137,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub137.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub138,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub138.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub139,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub139.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub140,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub140.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub141,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub141.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub142,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub142.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub143,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub143.set,ok,131,126,128.0,
+01_01_sub144,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub144.set,ok,120,126,128.0,
+01_01_sub145,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub145.set,ok,48,126,128.0,
+01_01_sub146,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub146.set,ok,107,126,128.0,
+01_01_sub147,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub147.set,ok,104,126,128.0,
+01_01_sub148,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub148.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub149,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub149.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub150,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub150.set,ok,149,126,128.0,
+01_01_sub151,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub151.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub152,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub152.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub153,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub153.set,ok,89,126,128.0,
+01_01_sub154,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub154.set,ok,161,126,128.0,
+01_01_sub155,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub155.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub156,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub156.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub157,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub157.set,ok,142,126,128.0,
+01_01_sub158,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub158.set,ok,164,126,128.0,
+01_01_sub159,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub159.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub160,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub160.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub161,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub161.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub162,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub162.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub163,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub163.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub164,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub164.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub165,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub165.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub166,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub166.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub167,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub167.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub168,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub168.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub169,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub169.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub170,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub170.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub171,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub171.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub172,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub172.set,ok,143,126,128.0,
+01_01_sub173,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub173.set,ok,124,126,128.0,
+01_01_sub174,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub174.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub175,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub175.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub176,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub176.set,ok,134,126,128.0,
+01_01_sub177,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub177.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub178,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub178.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub179,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub179.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub180,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub180.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub181,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub181.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub182,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub182.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub183,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub183.set,ok,53,126,128.0,
+01_01_sub184,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub184.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub185,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub185.set,ok,182,126,128.0,
+01_01_sub186,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub186.set,ok,117,126,128.0,
+01_01_sub187,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub187.set,ok,179,126,128.0,
+01_01_sub188,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub188.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub189,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub189.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub190,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub190.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub191,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub191.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub192,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub192.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub193,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub193.set,ok,124,126,128.0,
+01_01_sub194,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub194.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub195,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub195.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub196,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub196.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub197,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub197.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub198,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub198.set,ok,123,126,128.0,
+01_01_sub199,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub199.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub200,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub200.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub201,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub201.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub202,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub202.set,ok,117,126,128.0,
+01_01_sub203,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub203.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub204,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub204.set,ok,170,126,128.0,
+01_01_sub205,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub205.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub206,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub206.set,ok,164,126,128.0,
+01_01_sub207,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub207.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub208,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub208.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub209,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub209.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub210,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub210.set,ok,169,126,128.0,
+01_01_sub211,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub211.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub212,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub212.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub213,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub213.set,ok,65,126,128.0,
+01_01_sub214,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub214.set,ok,73,126,128.0,
+01_01_sub215,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub215.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub216,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub216.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub217,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub217.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub218,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub218.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub219,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub219.set,ok,70,126,128.0,
+01_01_sub220,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub220.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub221,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub221.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub222,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub222.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub223,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub223.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub224,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub224.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub225,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub225.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub226,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub226.set,ok,120,126,128.0,
+01_01_sub227,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub227.set,ok,155,126,128.0,
+01_01_sub228,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub228.set,ok,169,126,128.0,
+01_01_sub229,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub229.set,ok,97,126,128.0,
+01_01_sub230,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub230.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub231,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub231.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub232,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub232.set,ok,144,126,128.0,
+01_01_sub233,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub233.set,ok,140,126,128.0,
+01_01_sub234,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub234.set,ok,94,126,128.0,
+01_01_sub235,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub235.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub236,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub236.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub237,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub237.set,ok,128,126,128.0,
+01_01_sub238,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub238.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub239,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub239.set,ok,132,126,128.0,
+01_01_sub240,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub240.set,ok,100,126,128.0,
+01_01_sub241,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub241.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub242,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub242.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub243,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub243.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub244,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub244.set,ok,142,126,128.0,
+01_01_sub245,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub245.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub246,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub246.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub247,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub247.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub248,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub248.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub249,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub249.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub250,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub250.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub251,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub251.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub252,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub252.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub253,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub253.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub254,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub254.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub255,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub255.set,ok,125,126,128.0,
+01_01_sub256,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub256.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub257,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub257.set,ok,154,126,128.0,
+01_01_sub258,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub258.set,ok,142,126,128.0,
+01_01_sub259,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub259.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub260,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub260.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub261,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub261.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub262,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub262.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub263,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub263.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub264,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub264.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub265,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub265.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub266,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub266.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub267,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub267.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub268,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub268.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub269,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub269.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub270,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub270.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub271,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub271.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub272,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub272.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub273,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub273.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub274,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub274.set,ok,87,126,128.0,
+01_01_sub275,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub275.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub276,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub276.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub277,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub277.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub278,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub278.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub279,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub279.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub280,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub280.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub281,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub281.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub282,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub282.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub283,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub283.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub284,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub284.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub285,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub285.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub286,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub286.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub287,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub287.set,ok,107,126,128.0,
+01_01_sub288,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub288.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub289,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub289.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub290,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub290.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub291,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub291.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub292,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub292.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub293,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub293.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub294,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub294.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub295,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub295.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub296,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub296.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub297,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub297.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub298,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub298.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub299,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub299.set,ok,146,126,128.0,
+01_01_sub300,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub300.set,ok,160,126,128.0,
+01_01_sub301,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub301.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub302,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub302.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub303,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub303.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub304,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub304.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub305,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub305.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub306,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub306.set,ok,104,126,128.0,
+01_01_sub307,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub307.set,ok,118,126,128.0,
+01_01_sub308,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub308.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub309,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub309.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub310,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub310.set,ok,97,126,128.0,
+01_01_sub311,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub311.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub312,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub312.set,ok,153,126,128.0,
+01_01_sub313,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub313.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub314,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub314.set,ok,162,126,128.0,
+01_01_sub315,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub315.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub316,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub316.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub317,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub317.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub318,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub318.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub319,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub319.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub320,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub320.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub321,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub321.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub322,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub322.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub323,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub323.set,ok,154,126,128.0,
+01_01_sub324,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub324.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub325,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub325.set,ok,110,126,128.0,
+01_01_sub326,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub326.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub327,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub327.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub328,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub328.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub329,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub329.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub330,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub330.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub331,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub331.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub332,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub332.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub333,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub333.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub334,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub334.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub335,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub335.set,ok,166,126,128.0,
+01_01_sub336,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub336.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub337,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub337.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub338,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub338.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub339,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub339.set,ok,120,126,128.0,
+01_01_sub340,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub340.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub341,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub341.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub342,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub342.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub343,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub343.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub344,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub344.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub345,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub345.set,ok,135,126,128.0,
+01_01_sub346,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub346.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub347,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub347.set,ok,79,126,128.0,
+01_01_sub348,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub348.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub349,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub349.set,ok,177,126,128.0,
+01_01_sub350,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub350.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub351,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub351.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub352,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub352.set,ok,107,126,128.0,
+01_01_sub353,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub353.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub354,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub354.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub355,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub355.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub356,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub356.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub357,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub357.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub358,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub358.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub359,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub359.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub360,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub360.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub361,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub361.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub362,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub362.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub363,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub363.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub364,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub364.set,ok,120,126,128.0,
+01_01_sub365,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub365.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub366,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub366.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub367,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub367.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub368,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub368.set,ok,173,126,128.0,
+01_01_sub369,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub369.set,ok,137,126,128.0,
+01_01_sub370,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub370.set,ok,148,126,128.0,
+01_01_sub371,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub371.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub372,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub372.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub373,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub373.set,ok,129,126,128.0,
+01_01_sub374,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub374.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub375,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub375.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub376,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub376.set,ok,150,126,128.0,
+01_01_sub377,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub377.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub378,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub378.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub379,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub379.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub380,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub380.set,ok,158,126,128.0,
+01_01_sub381,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub381.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub382,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub382.set,ok,129,126,128.0,
+01_01_sub383,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub383.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub384,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub384.set,ok,126,126,128.0,
+01_01_sub385,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub385.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub386,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub386.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub387,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub387.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub388,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub388.set,ok,114,126,128.0,
+01_01_sub389,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub389.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub390,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub390.set,ok,174,126,128.0,
+01_01_sub391,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub391.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub392,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub392.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub393,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub393.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub394,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub394.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub395,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub395.set,ok,136,126,128.0,
+01_01_sub396,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub396.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub397,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub397.set,ok,154,126,128.0,
+01_01_sub398,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub398.set,ok,95,126,128.0,
+01_01_sub399,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub399.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub400,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub400.set,ok,154,126,128.0,
+01_01_sub401,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub401.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub402,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub402.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub403,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub403.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub404,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub404.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub405,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub405.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub406,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub406.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub407,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub407.set,ok,151,126,128.0,
+01_01_sub408,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub408.set,ok,101,126,128.0,
+01_01_sub409,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub409.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub410,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub410.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub411,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub411.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub412,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub412.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub413,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub413.set,ok,116,126,128.0,
+01_01_sub414,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub414.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub415,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub415.set,ok,166,126,128.0,
+01_01_sub416,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub416.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub417,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub417.set,ok,98,126,128.0,
+01_01_sub418,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub418.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub419,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub419.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub420,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub420.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub421,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub421.set,ok,99,126,128.0,
+01_01_sub422,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub422.set,ok,169,126,128.0,
+01_01_sub423,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub423.set,ok,146,126,128.0,
+01_01_sub424,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub424.set,failed,0,0,,TypeError: buffer is too small for requested array
+01_01_sub425,D:\Adnan_Project\gn7754\data\EEG-PRO_data\EEG-PRO_data\RAW\Tinnitus Dataset\01_01_sub425.set,failed,0,0,,TypeError: buffer is too small for requested array

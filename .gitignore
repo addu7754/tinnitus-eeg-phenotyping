@@ -1,0 +1,14 @@
+# Ignore datasets and data directories
+Dataset1/
+Dataset2/
+data/
+
+# Ignore large ZIP archives (GitHub 100MB limit)
+*.zip
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/

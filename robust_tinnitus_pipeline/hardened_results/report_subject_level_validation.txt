@@ -1,0 +1,53 @@
+========================================================================
+ ZENODO SUBJECT-LEVEL PHENOTYPE VALIDATION (HARDENED)
+========================================================================
+Subjects: 130
+Feature space: 25 relative-power features
+Validation unit: subject, not epoch/window
+PCA components retained: 7 (95% variance)
+
+K scan:
+ k  silhouette  davies_bouldin  cluster_sizes
+ 2      0.2516          1.4672          64|66
+ 3      0.2890          1.1684       43|56|31
+ 4      0.2476          1.3284    36|23|43|28
+ 5      0.2401          1.3193 19|36|16|19|40
+
+Primary k=2 phenotype result:
+  Cluster sizes: [64, 66]
+  Silhouette: 0.2516
+  Permutation null silhouette mean: 0.0001
+  Permutation p-value: 0.0010
+  Bootstrap Jaccard stability: 0.8940 +/- 0.0886
+
+Descriptive separability against full-cohort k=2 labels:
+    classifier  accuracy_mean  accuracy_std  balanced_accuracy_mean  f1_macro_mean
+dummy_majority         0.4923        0.0154                  0.5000         0.3298
+   logistic_l2         0.9923        0.0154                  0.9929         0.9923
+    linear_svm         0.9923        0.0154                  0.9929         0.9923
+       rbf_svm         0.9846        0.0188                  0.9852         0.9846
+   extra_trees         0.9692        0.0154                  0.9698         0.9692
+
+Train-only cluster propagation validation:
+ classifier  accuracy_mean  accuracy_std  balanced_accuracy_mean  f1_macro_mean  adjusted_rand_mean
+ linear_svm         0.9615        0.0272                  0.9628         0.9610              0.8485
+logistic_l2         0.9615        0.0272                  0.9628         0.9610              0.8485
+    rbf_svm         0.9538        0.0322                  0.9528         0.9528              0.8202
+extra_trees         0.9462        0.0211                  0.9470         0.9450              0.7895
+
+Top relative-power biomarkers:
+           feature  abs_logistic_weight  signed_logistic_weight           direction
+ theta_Frontal_rel               0.9752                  0.9752 higher_in_subtype_1
+  beta_Frontal_rel               0.9389                 -0.9389 higher_in_subtype_0
+ gamma_Frontal_rel               0.8207                 -0.8207 higher_in_subtype_0
+beta_Occipital_rel               0.8016                 -0.8016 higher_in_subtype_0
+ beta_Parietal_rel               0.7996                 -0.7996 higher_in_subtype_0
+ gamma_Central_rel               0.7277                 -0.7277 higher_in_subtype_0
+ theta_Central_rel               0.7062                  0.7062 higher_in_subtype_1
+theta_Temporal_rel               0.6987                  0.6987 higher_in_subtype_1
+delta_Parietal_rel               0.6811                  0.6811 higher_in_subtype_1
+theta_Parietal_rel               0.6702                  0.6702 higher_in_subtype_1
+
+Paper-safe headline from this script:
+  Subject-level k=2 phenotype propagation (linear_svm): accuracy=0.962 +/- 0.027, balanced accuracy=0.963.
+  Report this as agreement with train-only propagated unsupervised labels, not as clinical diagnostic accuracy.

@@ -1,0 +1,32 @@
+{
+  "selected_k": 2,
+  "selected_row": {
+    "method": "filterbank_tangent_kmeans",
+    "k": 2,
+    "n_subjects": 130,
+    "min_required_cluster_size": 20,
+    "cluster_sizes": "20|110",
+    "min_cluster_size": 20,
+    "silhouette": 0.33879372477531433,
+    "permutation_null_silhouette_mean": -0.004168630110798404,
+    "permutation_p": 0.004975124378109453,
+    "davies_bouldin": 3.925803217759169,
+    "bootstrap_ari_mean": 0.10893327872768976,
+    "bootstrap_ari_std": 0.16507244409150423,
+    "bootstrap_jaccard_mean": 0.5149150209347702,
+    "bootstrap_jaccard_std": 0.07929602388497546,
+    "valid": true
+  },
+  "n_subjects": 130,
+  "bands": [
+    "broadband",
+    "delta",
+    "theta",
+    "alpha",
+    "beta",
+    "gamma"
+  ],
+  "n_channels": 126,
+  "cache_path": "D:\\Adnan_Project\\gn7754\\robust_tinnitus_pipeline\\riemannian_results\\zenodo_subject_covariances.npz",
+  "tangent_path": "D:\\Adnan_Project\\gn7754\\robust_tinnitus_pipeline\\riemannian_results\\zenodo_filterbank_tangent_features.csv"
+}
